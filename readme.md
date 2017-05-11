@@ -23,3 +23,15 @@ Cause by using an object attribute that is not defined.
 
 ## IndentationError
 Not following Python's whitespace rules.
+
+1. Does a function have to have parameters?
+No a function may have 0 or more parameters as decided by the programmer.
+
+2. What happens if we call a function without providing a value for one or more input parameters?
+The program ends in a TypeError. 
+
+3. Does a function have to return a value?
+No.
+
+4. What happens if we have a function that doesn't return a value, but we try to store a return value in a variable? 
+You get "None"
